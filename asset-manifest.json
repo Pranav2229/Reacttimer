@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactTimer/static/css/main.b0607b38.css",
+    "main.js": "/ReactTimer/static/js/main.afeea3b8.js",
+    "static/js/592.4e74bf9f.chunk.js": "/ReactTimer/static/js/592.4e74bf9f.chunk.js",
+    "static/media/logo.svg": "/ReactTimer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactTimer/index.html",
+    "main.b0607b38.css.map": "/ReactTimer/static/css/main.b0607b38.css.map",
+    "main.afeea3b8.js.map": "/ReactTimer/static/js/main.afeea3b8.js.map",
+    "592.4e74bf9f.chunk.js.map": "/ReactTimer/static/js/592.4e74bf9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0607b38.css",
+    "static/js/main.afeea3b8.js"
+  ]
+}
